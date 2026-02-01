@@ -1,0 +1,17 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net6.0</TargetFramework>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>enable</Nullable>
+	<Gamepath>D:\Program Files (x86)\Steam\steamapps\common\Stardew Valley</Gamepath>
+	<AssemblyTitle>Decay</AssemblyTitle>
+	<AssemblyName>Decay</AssemblyName>
+	<RootNamespace>Decay</RootNamespace>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="Pathoschild.Stardew.ModBuildConfig" Version="4.4.0" />
+  </ItemGroup>
+
+</Project>

@@ -1,0 +1,14 @@
+{
+  "Name": "Decay Food and Crops",
+  "Author": "legiorange",
+  "Version": "1.0.0",
+  "Description": "Let food, fruits, and vegetables in Stardew Valley rot over time to enhance the game's realism.",
+  "UniqueID": "legiorange.Decay",
+  "EntryDll": "Decay.dll",
+  "MinimumApiVersion": "4.0.0",
+  "UpdateKeys": [
+    "Nexus:123456",
+    "GitHub:YourGitHubUsername/YourRepoName"
+  ],
+  "ContentPackFor": null
+}
