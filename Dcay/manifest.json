@@ -7,8 +7,8 @@
   "EntryDll": "Decay.dll",
   "MinimumApiVersion": "4.0.0",
   "UpdateKeys": [
-    "Nexus:123456",
-    "GitHub:YourGitHubUsername/YourRepoName"
+    "Nexus:41883",
+    "GitHub:legiorange/StardewValleyDecay"
   ],
   "ContentPackFor": null
 }
