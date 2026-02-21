@@ -1,3 +1,13 @@
 ﻿{
-    "bar.freshness": "{{percent}}% Freshness"
+    "bar.freshness": "{{percent}}% Freshness",
+	"GMCM.ModEnabled.Name": "Mod Enabled",
+	"GMCM.ModEnabled.Vegetable":"Vegetable",
+	"GMCM.ModEnabled.Fruits":"Fruits",
+	"GMCM.ModEnabled.Foragables":"Foragables",
+	"GMCM.ModEnabled.Eggs":"Eggs",
+	"GMCM.ModEnabled.Cooking":"Cooking",
+	"GMCM.ModEnabled.Fish":"Fish",
+	"GMCM.ModEnabled.Flowers":"Flowers",
+	"GMCM.ModEnabled.Milk":"Milk",
+	"GMCM.ModEnabled.Meat":"Meat"
 }

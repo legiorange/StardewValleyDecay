@@ -1,3 +1,13 @@
 ﻿{
-    "bar.freshness": "{{percent}}% 新鲜度"
+    "bar.freshness": "{{percent}}% 新鲜度",
+    "GMCM.ModEnabled.Name":"开启腐烂",
+    "GMCM.ModEnabled.Vegetable":"蔬菜",
+    "GMCM.ModEnabled.Fruits":"水果",
+	"GMCM.ModEnabled.Foragables":"野菜",
+	"GMCM.ModEnabled.Eggs":"蛋类",
+	"GMCM.ModEnabled.Cooking":"料理",
+	"GMCM.ModEnabled.Fish":"鱼类",
+	"GMCM.ModEnabled.Flowers":"花卉",
+	"GMCM.ModEnabled.Milk":"奶类",
+	"GMCM.ModEnabled.Meat":"肉类"
 }
