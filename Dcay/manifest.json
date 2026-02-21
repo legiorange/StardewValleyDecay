@@ -1,7 +1,7 @@
 {
   "Name": "Decay",
   "Author": "legiorange",
-  "Version": "1.0.0",
+  "Version": "1.0.1",
   "Description": "Let food, fruits, and vegetables in Stardew Valley rot over time to enhance the game's realism.",
   "UniqueID": "legiorange.Decay",
   "EntryDll": "Decay.dll",
